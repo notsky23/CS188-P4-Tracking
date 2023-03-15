@@ -32,7 +32,7 @@ The code is included in this repo.<br><br>
 ### Q7 - Exact Inference with Time Elapse<br>
 ![Time Elapse 1](https://user-images.githubusercontent.com/98131995/225379805-ad56219b-0863-41ef-ab7e-08d33219589b.gif)
 ![Time Elapse 2](https://user-images.githubusercontent.com/98131995/225379823-ea002dc5-6a4d-4097-a483-c4e9134553a4.gif)<br><br> 
-![Time Elapse 3](https://user-images.githubusercontent.com/98131995/225379929-0ac91ea4-dd6c-4a99-ab29-a301b094b518.gif)<br><br>
+![Time Elapse 3](https://user-images.githubusercontent.com/98131995/225379929-0ac91ea4-dd6c-4a99-ab29-a301b094b518.gif)
 ![Time Elapse 4gif](https://user-images.githubusercontent.com/98131995/225379967-f18a2c89-5260-48e3-9d7f-3f959cf16873.gif)<br><br>
 
 ### Q8 - Exact Inference Full Test<br>
