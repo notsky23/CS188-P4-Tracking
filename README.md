@@ -36,4 +36,5 @@ The code is included in this repo.<br><br>
 ![Time Elapse 4gif](https://user-images.githubusercontent.com/98131995/225379967-f18a2c89-5260-48e3-9d7f-3f959cf16873.gif)<br><br>
 
 ### Q8 - Exact Inference Full Test<br>
-![Full Test](https://user-images.githubusercontent.com/98131995/225526162-63f96fcd-b786-4ae4-8bb3-f7ddbc7a26a8.gif)<br><br>
+![Full Test](https://user-images.githubusercontent.com/98131995/225526162-63f96fcd-b786-4ae4-8bb3-f7ddbc7a26a8.gif)
+![Test 1](https://user-images.githubusercontent.com/98131995/225530438-3f453282-be1a-4818-8ce0-6f93ced90dd6.gif)<br><br>
