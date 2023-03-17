@@ -12,7 +12,7 @@ In this project, we will help PacMan navigate or infer the next positions of the
 
 ## Results:<br>
 
-You can read more about this module and deliverables at this site: https://inst.eecs.berkeley.edu/~cs188/sp22/project2/<br>
+You can read more about this module and deliverables at this site: https://inst.eecs.berkeley.edu/~cs188/sp22/project4/<br>
 
 Here are the results I got for Ghostbusters.<br>
 
