@@ -21,7 +21,7 @@ Note: So far we've only answered Q5-Q9 due to time constraints. Will update and 
 The code is included in this repo.<br><br>
 
 ### Q5 - Observation Probability<br>
-<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225816129-57e8dc56-6c1d-4c86-9ae1-9eb23f9548b6.png)<br><br>
 
 ### Q6 - Exact Inference Observation<br>
 ![Exact Inference 1](https://user-images.githubusercontent.com/98131995/225228716-ccca6007-35bb-4d84-ab82-9483da138174.gif)<br><br>
