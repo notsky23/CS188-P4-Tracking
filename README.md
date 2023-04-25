@@ -8,7 +8,7 @@ Project Site: https://inst.eecs.berkeley.edu/~cs188/sp22/projects/.<br><br>
 
 This project is a practice with inference in Bayes Nets and Hidden Markov Models.<br>
 
-In this project, we will help PacMan navigate or infer the next positions of the ghosts with sensors, in order for to hunt successfully.<br><br>
+In this project, we will help PacMan navigate or infer the next positions of the ghosts with sensors, in order to hunt ghosts successfully.<br><br>
 
 ## Results:<br>
 
