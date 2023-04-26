@@ -20,6 +20,7 @@ from keyboardAgents import KeyboardAgent
 import inference
 import busters
 
+
 class NullGraphics:
     "Placeholder for graphics"
     def initialize(self, state, isBlue = False):
