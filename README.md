@@ -36,6 +36,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225227811-8a5d7879-f564-4ecf-9505-fca8fe1f3630.png)<br><br>
 
 ### Q7 - Exact Inference with Time Elapse<br>
+![image](https://user-images.githubusercontent.com/98131995/234507902-a6655563-91a7-4c05-bf82-391c6debc869.png)<br><br>
+
 ![Time Elapse 1](https://user-images.githubusercontent.com/98131995/225379805-ad56219b-0863-41ef-ab7e-08d33219589b.gif)
 ![Time Elapse 2](https://user-images.githubusercontent.com/98131995/225379823-ea002dc5-6a4d-4097-a483-c4e9134553a4.gif)<br><br> 
 ![Time Elapse 3](https://user-images.githubusercontent.com/98131995/225379929-0ac91ea4-dd6c-4a99-ab29-a301b094b518.gif)
