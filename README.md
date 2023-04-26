@@ -36,7 +36,7 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225227811-8a5d7879-f564-4ecf-9505-fca8fe1f3630.png)<br><br>
 
 ### Q7 - Exact Inference with Time Elapse<br>
-<img src="https://user-images.githubusercontent.com/98131995/234507902-a6655563-91a7-4c05-bf82-391c6debc869.png" width=75% height=75%><br><br><br><br>
+<img src="https://user-images.githubusercontent.com/98131995/234507902-a6655563-91a7-4c05-bf82-391c6debc869.png" width=75% height=75%><br><br>
 
 ![Time Elapse 1](https://user-images.githubusercontent.com/98131995/225379805-ad56219b-0863-41ef-ab7e-08d33219589b.gif)
 ![Time Elapse 2](https://user-images.githubusercontent.com/98131995/225379823-ea002dc5-6a4d-4097-a483-c4e9134553a4.gif)<br><br> 
@@ -44,10 +44,10 @@ The code is included in this repo.<br><br>
 ![Time Elapse 4gif](https://user-images.githubusercontent.com/98131995/225379967-f18a2c89-5260-48e3-9d7f-3f959cf16873.gif)<br><br>
 
 ### Q8 - Exact Inference Full Test<br>
-<img src="https://user-images.githubusercontent.com/98131995/234508422-e9a14ad2-f6b2-423d-93a9-c5d8ed9ed00b.png" width=75% height=75%><br><br><br><br>
+<img src="https://user-images.githubusercontent.com/98131995/234508422-e9a14ad2-f6b2-423d-93a9-c5d8ed9ed00b.png" width=75% height=75%><br><br>
 
 <p align="center">
-    <![Full Test](https://user-images.githubusercontent.com/98131995/225526162-63f96fcd-b786-4ae4-8bb3-f7ddbc7a26a8.gif)>
+    <img src="https://user-images.githubusercontent.com/98131995/225526162-63f96fcd-b786-4ae4-8bb3-f7ddbc7a26a8.gif">
 </p><br>
 
 ![Test 1](https://user-images.githubusercontent.com/98131995/225530438-3f453282-be1a-4818-8ce0-6f93ced90dd6.gif)
