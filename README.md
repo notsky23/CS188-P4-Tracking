@@ -24,6 +24,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225816129-57e8dc56-6c1d-4c86-9ae1-9eb23f9548b6.png)<br><br>
 
 ### Q6 - Exact Inference Observation<br>
+![image](https://user-images.githubusercontent.com/98131995/234499360-100a4d32-7b50-4579-8e6b-d6371559c09d.png)<br><br>
+
 ![Exact Inference 1](https://user-images.githubusercontent.com/98131995/225228716-ccca6007-35bb-4d84-ab82-9483da138174.gif)<br><br>
 ![Exact Inference 2](https://user-images.githubusercontent.com/98131995/225229480-7c9b0d45-d89b-4110-a891-948fbafd727e.gif)
 ![Exact Inference 3](https://user-images.githubusercontent.com/98131995/225230420-de5b65b9-ef67-483b-9ab1-e716003d08a6.gif)<br><br>
