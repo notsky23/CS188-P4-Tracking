@@ -27,8 +27,6 @@ The code is included in this repo.<br><br>
 ![Exact Inference 1](https://user-images.githubusercontent.com/98131995/225228716-ccca6007-35bb-4d84-ab82-9483da138174.gif)<br><br>
 ![Exact Inference 2](https://user-images.githubusercontent.com/98131995/225229480-7c9b0d45-d89b-4110-a891-948fbafd727e.gif)
 ![Exact Inference 3](https://user-images.githubusercontent.com/98131995/225230420-de5b65b9-ef67-483b-9ab1-e716003d08a6.gif)<br><br>
-
-<img src="https://user-images.githubusercontent.com/98131995/225229480-7c9b0d45-d89b-4110-a891-948fbafd727e.gif" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225230420-de5b65b9-ef67-483b-9ab1-e716003d08a6.gif" width=50% height=50%><br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225227811-8a5d7879-f564-4ecf-9505-fca8fe1f3630.png)<br><br>
 
 ### Q7 - Exact Inference with Time Elapse<br>
