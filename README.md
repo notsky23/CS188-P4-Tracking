@@ -49,7 +49,7 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225526162-63f96fcd-b786-4ae4-8bb3-f7ddbc7a26a8.gif)<br>
 
 ![Test 1](https://user-images.githubusercontent.com/98131995/225530438-3f453282-be1a-4818-8ce0-6f93ced90dd6.gif)
-![Test 2](https://user-images.githubusercontent.com/98131995/225530818-fb9959ee-5bb2-483c-8354-85724044c0b8.gif)<br><br>
+![Test 2](https://user-images.githubusercontent.com/98131995/225530818-fb9959ee-5bb2-483c-8354-85724044c0b8.gif)<br>
 ![test 3](https://user-images.githubusercontent.com/98131995/234515376-da06175c-edcb-4296-bdb4-0ae7e9f97893.gif)
-![test 4](https://user-images.githubusercontent.com/98131995/234515793-f4ff01e2-b93e-4040-a9ff-f2cf6f81d406.gif)<br><br>
+![test 4](https://user-images.githubusercontent.com/98131995/234515793-f4ff01e2-b93e-4040-a9ff-f2cf6f81d406.gif)<br>
 
