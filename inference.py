@@ -484,8 +484,8 @@ class InferenceModule:
             if isGhostJailed and isObservationNone:
                 # print(1)
                 return 1
-            #ghost not in jail and observation is 0 - sensors not picking up ghost
-            #ghost is in jail and observation is not 0 - ghost is already in jail no need to observe
+            #ghost not in jail and observation is none - sensors not picking up ghost
+            #ghost is in jail and observation is not none - ghost is already in jail no need to observe
             else:
                 # print(0)
                 return 0
