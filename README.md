@@ -24,6 +24,7 @@ The code is included in this repo.<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/234500366-985bf979-4ed7-4b35-8daf-5df90fcdbb32.png" width=75% height=75%><br><br>
 
 ### Q5 - Observation Probability<br>
+<img src="https://user-images.githubusercontent.com/98131995/234504458-25204d87-b450-4614-9ebc-95b350d72b2f.png" width=75% height=75%><br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225816129-57e8dc56-6c1d-4c86-9ae1-9eb23f9548b6.png)<br><br>
 
 ### Q6 - Exact Inference Observation<br>
