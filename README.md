@@ -22,12 +22,12 @@ The code is included in this repo.<br><br>
 
 ### Bayesian Networks<br>
 ![image](https://user-images.githubusercontent.com/98131995/234500366-985bf979-4ed7-4b35-8daf-5df90fcdbb32.png)<br><br>
+<img src="https://user-images.githubusercontent.com/98131995/234500366-985bf979-4ed7-4b35-8daf-5df90fcdbb32.png" width=75% height=75%><br><br>
 
 ### Q5 - Observation Probability<br>
 ![image](https://user-images.githubusercontent.com/98131995/225816129-57e8dc56-6c1d-4c86-9ae1-9eb23f9548b6.png)<br><br>
 
 ### Q6 - Exact Inference Observation<br>
-![image](https://user-images.githubusercontent.com/98131995/234499360-100a4d32-7b50-4579-8e6b-d6371559c09d.png)<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/234499360-100a4d32-7b50-4579-8e6b-d6371559c09d.png" width=75% height=75%><br><br>
 
 ![Exact Inference 1](https://user-images.githubusercontent.com/98131995/225228716-ccca6007-35bb-4d84-ab82-9483da138174.gif)<br><br>
