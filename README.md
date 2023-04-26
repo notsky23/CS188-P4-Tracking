@@ -20,7 +20,7 @@ Note: So far we've only answered Q5-Q9 due to time constraints. Will update and 
 
 The code is included in this repo.<br><br>
 
-### Bayesian Networks<br>
+## Bayesian Networks:<br>
 <img src="https://user-images.githubusercontent.com/98131995/234500366-985bf979-4ed7-4b35-8daf-5df90fcdbb32.png" width=75% height=75%><br><br>
 
 ### Q5 - Observation Probability<br>
